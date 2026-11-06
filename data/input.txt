@@ -1,0 +1,38 @@
+
+Artificial Intelligence
+
+Artificial intelligence is a branch of computer science that focuses on creating intelligent machines. These machines can perform tasks that usually require human intelligence. Examples include learning, problem solving, decision making and understanding language.
+
+Machine Learning
+
+Machine learning is a part of artificial intelligence. It allows computers to learn patterns from data without being explicitly programmed for every task. Machine learning algorithms improve their performance through experience.
+
+Deep Learning
+
+Deep learning is a subset of machine learning. It uses artificial neural networks with multiple layers to learn complex patterns. Deep learning is widely used in image recognition, speech recognition and natural language processing.
+
+Natural Language Processing
+
+Natural Language Processing helps computers understand and process human language. It is used in chatbots, language translation, text summarization and sentiment analysis.
+
+Transformers
+
+Transformers are neural network architectures used in modern language models. They use a mechanism called self-attention to understand relationships between different tokens in a sequence.
+
+GPT Models
+
+Generatively Pre-trained Transformers are language models trained to predict the next token in a sequence. They learn language patterns from large collections of text.
+
+NavaGPT
+
+NavaGPT is a small GPT-style language model developed using Python and PyTorch. It uses token embeddings, positional embeddings, causal self-attention and feed-forward neural networks.
+
+The model learns by predicting the next token in a sequence. During training, it compares its predictions with the actual next tokens and updates its parameters to reduce the prediction error.
+
+Learning and Innovation
+
+Learning artificial intelligence requires curiosity, creativity, mathematics and programming skills. Experimentation helps developers understand how models work and how their performance can be improved.
+
+Technology and Society
+
+Technology plays an important role in modern society. It helps people communicate, learn, work and solve real-world problems. Responsible development is important to ensure that technology benefits everyone.
